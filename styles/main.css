@@ -996,3 +996,7 @@ td {
         background: #212529;
       }
     
+      a:hover {
+        color: #0ca678;
+      }
+    
