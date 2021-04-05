@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qfxl2001.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-04-05T10:03:39.391Z</updated>
+    <title>清风徐来</title>
+    <updated>2021-04-05T10:05:37.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qfxl2001.github.io"/>
     <link rel="self" href="https://qfxl2001.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://qfxl2001.github.io/images/avatar.png</logo>
     <icon>https://qfxl2001.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 清风徐来</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://qfxl2001.github.io/post/about/</id>
