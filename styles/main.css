@@ -211,6 +211,29 @@ progress {
 summary {
   display: list-item;
 }
+.friend-box {
+  float: left;
+  width: calc(50% - 20px);
+  margin: 15px 10px;
+}
+.friend-box img.friend-avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 50% !important;
+  float: left;
+  margin: 0 15px 0 0 !important;
+  transition: 0.5s;
+  -webkit-transtion: 1.5s;
+}
+.friend-box img.friend-avatar:hover {
+  transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+}
+.friend-box .flink-info {
+  height: 70px;
+  overflow: hidden;
+  line-height: 24px;
+}
 *,
 *:before,
 *:after {
