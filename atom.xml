@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qfxl2001.github.io</id>
     <title>清风徐来</title>
-    <updated>2021-04-08T07:45:37.746Z</updated>
+    <updated>2021-04-08T07:47:04.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qfxl2001.github.io"/>
     <link rel="self" href="https://qfxl2001.github.io/atom.xml"/>
@@ -43,7 +43,7 @@
 ● 由于我们想要的效果是纯黑背景，所以这里我们要把<code>黑色</code>拉到最低，使整个画面的背景色黑透，也方便了后续的抠图和修整<br>
 ● 此时我们会发现整张花的<code>对比度</code>会很高，看上去很不舒服，把<code>对比度</code>降下来<br>
 <img src="https://qfxl2001.github.io/post-images/1617867112863.jpg" alt="" loading="lazy"><br>
-● 之后再把<code>自然饱和度</code>也降下去，现在整张图的感觉就来了，<s>但还没结束</s></p>
+● 之后再把<code>自然饱和度</code>也降下去，现在整张图的感觉就来了   <s>但还没结束</s></p>
 ]]></content>
     </entry>
     <entry>
